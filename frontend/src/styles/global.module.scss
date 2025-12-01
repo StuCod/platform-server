@@ -1,6 +1,5 @@
 // 전역 스타일
-
-@use "./variables" as *;
+@use "./variables.module.scss" as *;
 
 /* CSS Reset + 기본 설정 */
 *,
